@@ -1,0 +1,13 @@
+#float-icon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 48px;
+  height: 48px;
+  cursor: pointer;
+  z-index: 10000;
+}
+#float-icon img {
+  width: 100%;
+  height: 100%;
+}
